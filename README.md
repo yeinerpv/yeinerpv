@@ -30,8 +30,8 @@ Combino el estudio con el trabajo desde hace años, lo que me ha dado disciplina
 | --- | --- | --- |
 | Sistema de base de datos para empresa de logística | MySQL, MySQL Workbench | Modelo de 11 tablas y 16 relaciones normalizado hasta 3FN, con llaves foráneas, restricciones UNIQUE y CHECK, y pruebas de integridad. |
 | Sistema de gestión de equipos de rescate | Java, Maven, NetBeans | Aplicación de consola con POO, menús, cálculo de costos, reportes, validación de datos y manejo de excepciones. |
-| Juego de la serpiente para dos jugadores | C++, Code::Blocks | Juego por turnos con tablero bidimensional, registro de jugadores en archivos de texto y tabla de puntuaciones. |
-
+| [Juego de la serpiente para dos jugadores](https://github.com/yeinerpv/snake-play-cpp) | C++, Code::Blocks | Juego por turnos con tablero bidimensional, registro de jugadores en archivos de texto y tabla de puntuaciones. |
+| Circuitos digitales | Digital Works | Sistema de alarma contra incendios diseñado con lógica combinacional. |
 
 *Los repositorios de cada proyecto se irán publicando en este perfil.*
 
